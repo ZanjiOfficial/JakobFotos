@@ -1,30 +1,64 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+GET PRO VERSION HERE:
+https://templatesjungle.gumroad.com/l/luna
 
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+It is a premium HTML CSS template by TemplatesJungle.com
+You can use this template as a starter template and start building as you require.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
+The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
 
 
-Credits:
+FREE FOR BOTH PERSONAL AND COMMERCIAL USE
 
-	Demo Images:
-		Unsplash (unsplash.com)
+This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects.
 
-	Icons:
-		Font Awesome (fontawesome.io)
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+RIGHTS
+
+You are allowed to use it in your personal projects and commercial projects.
+
+You can modify and sell it to your clients.
+
+
+PROHIBITIONS
+
+You are not permitted to resell or redistribute (paid or free) as it is. 
+
+You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
+
+If you want to share the resource in your blog, you must point it to original TemplatesJungle.com resource page. 
+
+You cannot host the download file in your website.
+
+
+SUPPORT
+
+You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
+
+Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
+
+support@templatesjungle.com
+
+CREDITS & REFERENCES
+
+https://getbootstrap.com/
+
+Stock Photos
+https://unsplash.com/
+https://www.freepik.com/
+https://www.pexels.com/
+
+Fonts
+Google fonts
+https://fonts.google.com/
+
+Icons
+https://iconify.design/
+
+JQuery Plugins
+Swiper Slider - https://swiperjs.com/
+Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
+
+Thanks for downloading from TemplatesJungle.com !
+
+
